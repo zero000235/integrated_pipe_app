@@ -1,6 +1,0 @@
-streamlit
-numpy
-pandas
-CoolProp
-google-generativeai
-Pillow
